@@ -3,6 +3,7 @@
 Script created to move data of all fields having Checkbox Type, to a newly created Field of type MSL, i-e Multi Select List
 
 This includes
+- Backup of current state
 - Insertion in related tables
 - Insertion of values in MSL
 - Insertion in related views
